@@ -1,2 +1,2 @@
 # test_node
-Creatinng a node repository
+Creating a node repository

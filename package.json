@@ -1,0 +1,30 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "Creating a node repository",
+  "main": "index.js",
+  "scripts": {
+    // "start": "node index.js",
+    // "dev": "nodemon index.js",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanderleest/test_node.git"
+  },
+  "keywords": [],
+  "author": "Amanda V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avanderleest/test_node/issues"
+  },
+  "homepage": "https://github.com/avanderleest/test_node#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
